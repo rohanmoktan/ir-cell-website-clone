@@ -1,0 +1,231 @@
+.navbar {
+    background-color: #2E0249;
+}
+
+.container {
+    margin-left: 0%;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: white;
+    border-bottom: solid white;
+    background: #000;
+}
+
+.navbar-brand {
+    color: white;
+    border-left: 2px solid white;
+    padding-left: 8px;
+}
+
+.navbar-brand strong {
+    color: rgb(99, 99, 237);
+}
+
+.navbar-brand:hover{
+    color: white;
+}
+
+.navbar img
+{
+    margin: auto;
+    padding-left: 10px;
+    height: 63px;
+    padding-right: 6px;
+}
+
+.navbar-toggler{
+
+    background-color: white;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 0, 0, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.card-button {
+    background-color: #2E0249;
+    color: white;
+}
+
+.card-button:hover {
+    background-color: blue;
+    color: white;
+}
+
+.row {
+    padding: 1% 7.5%;
+    margin-top: 80px;
+}
+
+.uni_fil{
+    background-color: #2E0249;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px; ;
+    padding: 4px;
+    position: relative;
+    width: 85.5%;
+}
+
+.uni_fil .col {
+    display: inline-block;
+    text-align: center;
+    padding: 4px;
+
+}
+
+.uni_fil .col .first {
+    border-right: 4px solid white;
+}
+
+.uni_fil a {
+    text-decoration: none;
+    color: white;
+}
+
+.card {
+    padding: 7px;
+}
+
+.card-header {
+    color: rgb(48, 113, 218);
+}
+
+.card img {
+    height: 100%;
+}
+
+.card img:hover {
+    position: relative;
+    bottom: 3%;
+
+}
+
+.country {
+    color: rgb(48, 113, 218);
+}
+
+.expense {
+    color: rgb(48, 113, 218);
+}
+
+.deadline {
+    color: red;
+}
+
+header {
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+    top: 0;
+    left: 0;
+   
+}
+
+.uni_fil {
+    position: sticky;
+    top: 86px;
+    z-index: 1;
+    margin-top: 145px;
+    margin-bottom: -67px;
+}
+
+.tablet a:hover {
+    color: orange;
+}
+
+.contact_me {
+    margin: 7% auto;
+    background-color: #2E0249;
+    color: white;
+    text-align: center;
+    padding: 1% 0%;
+    width: 101%;
+}
+
+.contact_me h2 {
+    border: 3px solid white;
+    display: inline-block;
+    padding: 6px 15px;
+    border-radius: 27px;
+}
+
+
+.email {
+    display: inline-block;
+    padding: 0% 2%;
+    padding-bottom: 3%;
+}
+
+.email a {
+    text-decoration: none;
+}
+
+.email a:hover{
+    color: #D44638;
+}
+
+.youtube {
+    display: inline-block;
+    padding: 0% 2%;
+    padding-bottom: 3%;
+}
+
+.youtube a {
+    text-decoration: none;
+}
+
+.youtube a:hover {
+    color: #FF0000;
+}
+
+.linkedIn {
+    display: inline-block;
+    padding: 0% 2%;
+    padding-bottom: 3%;
+}
+
+.linkedIn a {
+    text-decoration: none;
+}
+
+.linkedIn a:hover {
+    color: #00a0dc;
+}
+
+.GitHub {
+    display: inline-block;
+    padding: 0% 2%;
+    padding-bottom: 3%;
+}
+
+.GitHub a {
+    text-decoration: none;
+}
+
+.GitHub a:hover {
+    color: #6e5494;
+}
+
+.contact_items {
+    text-align: center;
+    
+}
+
+.contact_items a {
+    color: #2E0249;
+}
+
+.contact_items p {
+    padding-top: 10px;
+}
+
+
+
+
+
